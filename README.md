@@ -1,6 +1,11 @@
 # 密码管理工具
 
 一个简洁大方的密码管理软件，使用Authenticator认证方式保障安全，支持云存储同步功能。
+<img width="590" height="624" alt="屏幕截图 2026-03-06 095534" src="https://github.com/user-attachments/assets/05ce7f35-35d1-4b8e-bae5-d5c79f61d6dc" />
+<img width="585" height="626" alt="屏幕截图 2026-03-06 095929" src="https://github.com/user-attachments/assets/51f0a857-e615-46df-9e95-cb62a51a9ab0" />
+<img width="1000" height="735" alt="屏幕截图 2026-03-06 095746" src="https://github.com/user-attachments/assets/2ceb0215-c54b-4c93-b71f-2aafe7c4ef67" />
+<img width="1002" height="728" alt="屏幕截图 2026-03-06 095840" src="https://github.com/user-attachments/assets/2ce04e52-89bf-47ee-a72b-6c110330c372" />
+
 
 ## 📚 快速导航
 - 📖 [**完整使用指南**](完整使用指南.md) - 所有文档的导航索引和详细使用说明
